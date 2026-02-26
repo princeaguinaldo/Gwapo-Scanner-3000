@@ -51,4 +51,5 @@ python gwapo_scanner.py
 ---
 
 Scan responsibly. Stay gwapo.
+---
 **This is for entertainment purposes only. Bot is not based on any data for being "Gwapo" at all. Unless I make one.**
