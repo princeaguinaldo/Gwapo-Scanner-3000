@@ -1,4 +1,4 @@
-# 💫 GWAPO SCANNER 3000 — Python Edition
+# 💫 GWAPO SCANNER 3000 — Python
 
 GWAPO SCANNER 3000 is a fun Python program that uses your webcam and OpenCV to detect faces in real time and “scan” them.
 
